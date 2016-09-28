@@ -1,0 +1,17 @@
+*~
+*.diff
+*.patch
+.DS_Store
+.project
+.settings
+.idea
+/storage/*
+/config/*
+/addons/*/*
+/tests/*
+/node_modules
+
+!.gitignore
+!.gitkeep
+!/storage/*/index.html
+!/storage/*/.htaccess
